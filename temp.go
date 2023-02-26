@@ -8,6 +8,9 @@ import (
 func main() {
 	fmt.Println(primeNumber(13))
 	fmt.Println(ArrayMerge([]string{"king", "devil jin", "akuma"}, []string{"eddie", "akuma", "steve", "geese"}))
+	fmt.Println("helo world")
+	fmt.Println("Test")
+	fmt.Println("haii")
 }
 
 func primeNumber(a int) bool {
